@@ -1,3 +1,4 @@
+/.angular/cache
 ### JetBrains template
 
 # User-specific stuff
@@ -52,6 +53,9 @@ web_modules/
 
 # TypeScript cache
 *.tsbuildinfo
+
+# Angular cache
+.angular
 
 # Optional npm cache directory
 .npm

@@ -101,6 +101,5 @@
         }
       }
     }
-  },
-  "defaultProject": "ng2-charts-demo"
+  }
 }
